@@ -25,5 +25,5 @@ Comment installer notre Visualiseur de Trafic ?
 Télécharger le projet sur moodle sous le format .zip
 Puis l’extraire où bon vous semble .
 Et vous ouvrez un terminal à l’intérieur du dossier extrait et écrivez : 
-java -jar reseaux.jar -h
+java -jar visualisateur.jar -h
 Un menu help s'affiche avec toutes les indications à savoir.
